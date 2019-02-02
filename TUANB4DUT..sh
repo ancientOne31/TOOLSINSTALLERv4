@@ -1,14 +1,6 @@
 #!/bin/bash
 #version 1.0
 
-#                      MAU NGAPAIN TOT?
-#              RECODE?REEDIT?RECOPYRIGHT?COPAS?
-#                       MALU TOLOL!!!
-#                      KAGA BERMORAL!!
-#                     KELUAR KAMPANG!!!
-#              HARGAI KARYA ORANG LAIN GOBLOK!
-
-#07/07/17
 
 clear
 # Variables
